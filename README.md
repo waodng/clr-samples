@@ -1,4 +1,5 @@
-### 通过CLR 本机代码的方式来对运行时的代码进监控和其他profile APIs的接口调用，只能通过C++ COM组件的方式使用
+### 通过CLR 本机代码的方式来对运行时的代码进监控和
+### 其他profile APIs的接口调用，只能通过C++ COM组件的方式使用
 
 # CoreCLR Samples Repository
 
